@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Garfagnana</name>
+    <description/>
+    <NetworkLink>
+      <name>Garfagnana</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=1yDQPQJHIIhIuI6sNFOBEyTISGHsBy3lV]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
